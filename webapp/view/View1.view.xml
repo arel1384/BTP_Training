@@ -1,7 +1,7 @@
 <mvc:View controllerName="sap.btp.helloworldui53.controller.View1"
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m" displayBlock="true">    
-    <Page id="page" title="HELLO WORDL">
+    <Page id="page" title="HELLO WORLD">
     <content>
     <FlexBox id="FlexBox0" alignItems="Center" direction="Row">
     <Text text="Accept the button" id="Text0"></Text>
